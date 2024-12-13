@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
 <!--
 **yellick/yellick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
