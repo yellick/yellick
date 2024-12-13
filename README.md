@@ -17,7 +17,7 @@
           
 </div>
 <br><br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellick&theme=rose_pine)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellick&theme=rose_pine">
 <div align="center">
     ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellick&theme=rose_pine)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yellick&theme=rose_pine)
