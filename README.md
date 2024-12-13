@@ -2,7 +2,7 @@
     <h1>Hi, I'm Mikhail</h1>
     <h3>Full stack Developer</h3>
 </div>
-<br><br><br>
+<br>
 <div id="tools" align="center">
     <h3>Languages and tools:</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
@@ -16,9 +16,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
           
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
