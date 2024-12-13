@@ -22,7 +22,6 @@
 </div>
 <br>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellick&theme=rose_pine">&nbsp;
-    <p>   </p>&nbsp;
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellick&theme=rose_pine">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yellick&theme=rose_pine">
 </div>
