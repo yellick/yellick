@@ -16,3 +16,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
           
 </div>
+<br><br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellick&theme=rose_pine)
+<div align="center">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellick&theme=rose_pine)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yellick&theme=rose_pine)
+</div>
